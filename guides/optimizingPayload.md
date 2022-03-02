@@ -10,7 +10,7 @@ your payload to contrained conditions where every bit counts.
   * How does your current payload look, and how is your data encoded?
   * How many bytes are you sending per measurement?
   * For this calculation you can exclude the meta data like topic or QoS
-  * How many messages are you sending pr hour?
+  * How many messages are you sending per hour?
   * How many bytes per hour?
   
 ### Designing a smaller payload
